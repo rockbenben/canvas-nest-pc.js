@@ -38,7 +38,6 @@ canvas-nest.js 链接：https://github.com/hustcc/canvas-nest.js
  - **`zIndex`**: 背景的z-index属性，css属性用于控制所在层的位置, 默认: `-1`
 
 Example:
- - 快捷使用
 ```html
 <script type="text/javascript" color="0,0,255" opacity='0.7' zIndex="-2" count="99" src="./canvas-nest.js"></script>
 ```
